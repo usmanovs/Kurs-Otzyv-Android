@@ -1,0 +1,6 @@
+{
+  "name": "Kursotzyv Mobile",
+  "description": "Кыргызстандагы онлайн курстар жана мугалимдер жөнүндө чынчыл сын-пикирлердин мобилдик тиркемеси.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
